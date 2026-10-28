@@ -1,4 +1,5 @@
 package com.example.lab_8
+// lab 8 ci check
 
 class Wizard(val name: String, var mana: Int, var spellPower: Int) {
     fun castSpell(spell: String): Int {
